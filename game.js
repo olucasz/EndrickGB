@@ -29,7 +29,7 @@ obstacle1.image.src = "images/Curintia.png";
 dino.image.src = "images/endrick.png";
 
 let obstacles = [obstacle1];
-let gameSpeed = 3;
+let gameSpeed = 5;
 let score = 0;
 let runAnimation = true;
 let colisao = false;
